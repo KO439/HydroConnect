@@ -12,7 +12,7 @@ HydroConnect is a smart connected hydroponic system that allows real-time monito
 
 ## Screenshots
 
-![HydroConnect Interface - Dashboard](HydroConnect.png)  
+![HydroConnect Interface - Dashboard](images/HydroConnect.png)  
 *Web dashboard showing real-time measured parameters.*
 
 ![HydroConnect Sensors](Compenent.jpg)  
